@@ -1,6 +1,6 @@
 # FizzBuzz
 
-Shell test script to test my skills.
+Shell script to test my skills.
 
 ### RUN
 ```sh
